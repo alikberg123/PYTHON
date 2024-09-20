@@ -1,0 +1,8 @@
+# python\config.py
+
+
+wsite = "https://alikberg123.github.io/android-store/"  # web site
+Token = "6895834789:AAF1i3Ec6NENpeUlHk-y5akhPUyHfY_drSY"  # Token Telegram
+Email = "Alikbewrg123@gmail.com"
+Passwd = "19992906"
+ssh = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDNtG2jiYo7hGKLEN9knJGSdwTwUzjI2QfJjMtT+TKjEACih37Ae53gcYcWJ1HR4Ft4HpCYz5kOLKrJAi3MGKuOY88yS5yFBnGaCgGUHGsbpRi7B6ElgwD6uDHcjRQvy4B0T7z7/RWs4ZRDKMzvDWrpSMPLm8rAqV/ka2AwASHCIVlGMwdADAp9Lo9kIzUUZGJtJZgdJ//Oc8pfGW3JUwSYbtVwfYb3+cPU6SiQKyPoXPu1X42P53h2To1eTg8jITGZtk3h7LqL99IHy++0fUtT4xrI8GpUxf0weeblLMH4GIINU2Ki8bZ+sBjRSuPohDrzNXyhH1BkBq/CUeFc9+CaVl4B9O/yznOscimJoxy7wPfc4QPHHd1C5QWEuktcHrLQqwDUgH5DB32T9Js8FCBJKDemsoPMUCUXk44dwHj0a2jK++s0FVpE27gEUcfmVp60CLTE3qQ0u5nLEbB2hhljducr8dbmnaw4U9YYHn4SVozAwVpi+JMD0X/hZZRVXsM= u0_a224@localhost"

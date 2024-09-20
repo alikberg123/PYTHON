@@ -1,0 +1,19 @@
+{
+    "editor.lineNumbers": "on",
+    "editor.fontSize": 16,
+    "editor.lineHeight": 1.6,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.minimap.enabled": true,
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.colorTheme": "Bearded Theme Monokai Black",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter",
+        "editor.formatOnSave": true
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.empty.hint": "hidden",
+    "codeium.enableConfig": {
+        "*": true,
+        "plaintext": true
+    }
+}

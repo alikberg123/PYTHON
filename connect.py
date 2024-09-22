@@ -16,5 +16,7 @@ while status:
             )
     else:
         quit()        
+def main():
+    print("Welcome")
     if __name__ == "__main__":
-        print("main")
+        main()
